@@ -2,7 +2,7 @@
 
 code in private repo
 
-![IMG_1873](https://github.com/user-attachments/assets/ef9d2d45-5560-43cc-9894-ffd9ce3c15b4)
+[sms_parkingpayment_ss.pdf](https://github.com/user-attachments/files/16237622/sms_parkingpayment_ss.pdf)
 
 **Introduction**
 Developed to tackle the high parking rates and hefty fines at university sports team facilities, this innovative solution streamlines the process
